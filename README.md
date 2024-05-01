@@ -10,13 +10,17 @@ This application allows you to view metadata from PNG images, including VRCX app
 
 1. **Drag and Drop:** Drag and drop a PNG file or URL into the application window.
 
-    ![alt text](image.png)
+    <br>
+
+    ![alt text](resources/image.png)
+
+     <br>
 
 2. **View Metadata:** The application will display metadata information extracted from the PNG image or URL.
 
-    ![alt text](image-1.png)
-
 3. **VRCX Metadata:** If the metadata contains VRCX application data, it will be displayed in a structured format, including world name, world ID, and player information.
+
+    ![alt text](resources/image-1.png)
 
 ## Dependencies
 
